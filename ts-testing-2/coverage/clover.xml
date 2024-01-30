@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1699943533347" clover="3.2.0">
+  <project timestamp="1699943533347" name="All files">
+    <metrics statements="17" coveredstatements="11" conditionals="1" coveredconditionals="0" methods="10" coveredmethods="6" elements="28" coveredelements="17" complexity="0" loc="17" ncloc="17" packages="1" files="2" classes="2"/>
+    <file name="1.ts" path="/home/wasik.amin/labs-bootcamp/Stream/typescript/ts-testing/src/1.ts">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="2.ts" path="/home/wasik.amin/labs-bootcamp/Stream/typescript/ts-testing/src/2.ts">
+      <metrics statements="13" coveredstatements="7" conditionals="1" coveredconditionals="0" methods="8" coveredmethods="4"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="9" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
